@@ -1,1 +1,2 @@
 source "$BR2_EXTERNAL_TEST_PATH/package/python-mymath/Config.in"
+source "$BR2_EXTERNAL_TEST_PATH/package/python-mycmath/Config.in"
